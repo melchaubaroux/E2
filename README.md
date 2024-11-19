@@ -9,7 +9,7 @@
   ## roles utilisateurs : 
     il n'existe qu'un seul type de roles utilsateur , ceux ci ont accées a toutes les services, cependant seul les developeur ont accées a certains endpoints comme celui de remise a zéro des tables de données
 
-  ## dépendance logciel : 
+  ## dépendance logiciel : 
     postgressql
 
   ## Données impliquées :
