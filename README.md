@@ -16,7 +16,7 @@
     données audio (compatible avec ffmpeg soit tous les types de fichiers audio classiques compressé ou non )
     données textuel (format exploitable par le lecteur de fichier natif de python: txt ,bin ) 
 
-  ## protection de la donnée 
+  ## protection de la donnée :
     les données ne sont accessible que par les employé.
     pour les données soumis au rgpd il suffit de mettre a jour le fichier de support de la vectorisation et remplacer le fichier dans la base 
     
