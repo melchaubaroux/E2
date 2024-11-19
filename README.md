@@ -25,6 +25,7 @@
     installer python 3 (le code fonctionne sous 3.11.5)
     intstaller Node.js (`20.17.0`) et npm (`10.8.2`).
     installer postgressql et son extension pg vector
+    installer ollama 
     aller dans le sous dossier du front et faire npm install
     aller dans le sous dossier des composant et ecrire pip install requirements.txt
     
