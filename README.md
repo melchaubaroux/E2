@@ -10,7 +10,9 @@
     il n'existe qu'un seul type de roles utilsateur , ceux ci ont accées a toutes les services, cependant seul les developeur ont accées a certains endpoints comme celui de remise a zéro des tables de données
 
   ## dépendance logiciel : 
+    python 
     postgressql
+    ollama
 
   ## Données impliquées :
     données audio (compatible avec ffmpeg soit tous les types de fichiers audio classiques compressé ou non )
@@ -27,7 +29,8 @@
     installer postgressql et son extension pg vector
     installer ollama 
     aller dans le sous dossier du front et faire npm install
-    aller dans le sous dossier des composant et ecrire pip install requirements.txt
+    aller dans le sous dossier du composant whisper et écrire pip install requirements.txt
+    
     
 
     
